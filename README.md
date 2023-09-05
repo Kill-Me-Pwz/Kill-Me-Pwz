@@ -1,5 +1,5 @@
 - I'm Kill Me.
-- I'm a second class engineering student.
+- I'm a second year engineering student.
 - I'm here to learn and explore whatever I can
 
 <!---
